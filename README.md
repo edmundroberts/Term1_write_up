@@ -24,6 +24,10 @@ To animate the spike and the fist I fisrt set the actor's location to be where i
 
 ![fist trap](https://user-images.githubusercontent.com/32567724/35196347-b7f215b2-fec8-11e7-9c8e-937d531a4524.PNG)
 
+Here is a link to the models moving in the game:
+
+https://www.youtube.com/watch?v=j99veTCQmfY
+
 # Vase 
 We needed to include destructable objects in the game that the player could destroy as form of stress relief and fun, I decided to make a destructbale vase for this purpose. Making the vase was a simple case of extruding and shaping before removing the faces at the top to create a hollow vase. 
 

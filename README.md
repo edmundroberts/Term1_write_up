@@ -2,7 +2,7 @@
 
 For this coursework my teammates and I created a first-person platform game with idea of ascending a wizard's tower. We all did various parts of coding as well as modelling, texturing and design.
 
-## Spike Trap and Fist:
+## Spike Trap and Fist
 
 I made a spike trap by making a simple low poly spike in Maya, which I textured trying to give it a dirty metal look I then duplicated the spike to create the trap. In the game I had used a place holder block to represent the spikes, so it was an easy case of swapping meshes. 
 
@@ -27,17 +27,15 @@ The Vase: simple case of extruding and shaping before removing the faces at the 
 ![vases](https://user-images.githubusercontent.com/32567724/35195584-9b63d1c0-febd-11e7-835d-9cdf371f9ed8.png)
 
 
-
-Coding:
-Sound: 
+##Sound 
 For the sound of the spikes moving in and out I recorded the sound of scraping metal against metal. This created the desired affect which I added a small amount of reverb to. I then had to change the duration of the audio to match the duration of the spikes’ animation in the game. 
 
-Jump pad:
+##Jump pad
 This was a case of creating a trigger box which upon entering would launch the player a certain distance. I then had to hook the trigger box up to the interface for the fireball receiver. The interface starts the corresponding blueprint depending on whether the correct receiver had been activated by a fireball. 
 
 ![jump pad](https://user-images.githubusercontent.com/32567724/35196653-e68acea6-fecc-11e7-8f36-06d7bbab5e86.PNG)
 
-Moving Platforms:
+##Moving Platforms
 For the moving platforms I originally made a matinee in which I animated the platforms, I found this method to be buggy and unhelpful for what I wanted to achieve. I decided to move them through blueprints and specifically the timeline feature which allows you to animate vectors. 
 
 ![moveing plat](https://user-images.githubusercontent.com/32567724/35196654-e6a61922-fecc-11e7-8516-834307a497d7.PNG)

@@ -1,6 +1,6 @@
 # Term1_write_up
 
-For this coursework my teammates and I created a first-person platform game. The idea we had was that the player would have to ascend a wizard's tower whilst navigating past various traps and problems. Throughout the ascent the player would spawn fireballs that he could throw into receivers and upon doing so unlock a route to the top.  We all did various parts of coding as well as modelling, texturing and overall design.
+For this coursework my teammates and I created a first-person platform game. The idea we had was that the player would have to ascend a wizard's tower whilst navigating past various traps and problems. Throughout the ascent the player would spawn fiery orbs that he could throw into receivers and upon doing so unlock a route to the top.  We all did various parts of coding as well as modelling, texturing and overall design.
 
 ## Spike Trap and Fist
 
@@ -42,6 +42,10 @@ In order to get past the spike traps I wanted the player to have to shoot a fire
 
 ![jump pad](https://user-images.githubusercontent.com/32567724/35196653-e68acea6-fecc-11e7-8f36-06d7bbab5e86.PNG)
 
+Here is a linke to the jump pad and spike being used in game
+
+https://www.youtube.com/watch?v=jr5YGAZpx3w
+
 ## Moving Platforms
 For the moving platforms I originally made a matinee in which I animated the platforms, I found this method to be buggy and unhelpful for what I wanted to achieve. I decided to move them through blueprints and specifically the timeline feature which allows you to animate vectors. 
 
@@ -60,7 +64,7 @@ I then imported it into Unreal and used the particle system to give it a glowing
 
 ![runegame](https://user-images.githubusercontent.com/32567724/35198420-a4fb1242-fee6-11e7-8ed1-9335847942bd.PNG)
 
-Using blueprints I made it that the rune would be triggered when the player fires his fireball into the correct receiver. 
+Using blueprints I made it that the rune would be triggered when the player fires his fire orb into the correct receiver. 
 
 ![partical spwan](https://user-images.githubusercontent.com/32567724/35196655-e6bfed5c-fecc-11e7-9f14-f31e2a4e3541.PNG)
 

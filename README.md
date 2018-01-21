@@ -49,6 +49,7 @@ In otrder to visualise where the player should stand in order to be launched by 
 
 I created a drawing of the rune in photoshop.
 
+![rune](https://user-images.githubusercontent.com/32567724/35196813-3ea52cd8-fecf-11e7-83ef-f804c61f79a7.png)
 
 I then imported it into Unreal and used the partical system to give it a glowing effect. Using blueprints I made it that the rune would be triggered when the player fires his fireball into the correct reciever. 
 

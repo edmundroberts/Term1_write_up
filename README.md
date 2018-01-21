@@ -8,10 +8,15 @@ I made a spike trap by making a simple low poly spike in Maya, which I textured 
 
 ![spiketrap1](https://user-images.githubusercontent.com/32567724/35195469-cd3d4610-febb-11e7-8508-28ee968509d6.png)
 
-For the fist I had to learn a lot about modelling and texturing as it was quite a tricky thing to make. I realised that the best method was to create a simple shape that I could cut into to create fingers and extrude to create the thumb. One the general shape of a closed fist was defined the rest was easy. Texturing, however was tricky, for this I used a numbered checkers texture and split the fist into distinct parts which I cut and sewed as best I could. I used normal, diffuse and speculative maps to create a dark marble like metal that would suit our game’s aesthetics.
+For the fist I had to learn a lot about modelling and texturing as it was quite a tricky thing to make. I realised that the best method was to create a simple shape that I could cut into to create fingers and extrude to create the thumb. One the general shape of a closed fist was defined the rest was easy. 
 
 
 ![fist2](https://user-images.githubusercontent.com/32567724/35195494-51f418ac-febc-11e7-8db3-7e47277c5029.png)
+
+Texturing, however was tricky, for this I used a numbered checkers texture and split the fist into distinct parts which I cut and sewed as best I could. I used normal, diffuse and speculative maps to create a dark marble like metal that would suit our game’s aesthetics.
+
+![fist3](https://user-images.githubusercontent.com/32567724/35196113-ab474fce-fec5-11e7-89e8-ca7e3dd68d01.png)
+
 
 
 

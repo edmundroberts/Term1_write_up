@@ -28,15 +28,6 @@ The Vase: simple case of extruding and shaping before removing the faces at the 
 
 
 
-
-
-
-
-
-
-
-
-
 Coding:
 Sound: 
 For the sound of the spikes moving in and out I recorded the sound of scraping metal against metal. This created the desired affect which I added a small amount of reverb to. I then had to change the duration of the audio to match the duration of the spikes’ animation in the game. 
@@ -48,5 +39,16 @@ This was a case of creating a trigger box which upon entering would launch the p
 
 Moving Platforms:
 For the moving platforms I originally made a matinee in which I animated the platforms, I found this method to be buggy and unhelpful for what I wanted to achieve. I decided to move them through blueprints and specifically the timeline feature which allows you to animate vectors. 
+
+![moveing plat](https://user-images.githubusercontent.com/32567724/35196654-e6a61922-fecc-11e7-8516-834307a497d7.PNG)
+
+
+
+
+
+
+
+![partical spwan](https://user-images.githubusercontent.com/32567724/35196655-e6bfed5c-fecc-11e7-9f14-f31e2a4e3541.PNG)
+
 
 

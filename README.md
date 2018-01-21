@@ -47,6 +47,11 @@ For the moving platforms I originally made a matinee in which I animated the pla
 
 In otrder to visualise where the player should stand in order to be launched by the jump pad I created a partical spawner that emitted a runic symbol to show the play where to run. 
 
+I created a drawing of the rune in photoshop.
+![rune](https://user-images.githubusercontent.com/32567724/35196775-8c7ad9d6-fece-11e7-90ca-8409951eef3a.png)
+
+I then imported it into Unreal and used the partical system to give it a glowing effect. Using blueprints I made it that the rune would be triggered when the player fires his fireball into the correct reciever. 
+
 ![partical spwan](https://user-images.githubusercontent.com/32567724/35196655-e6bfed5c-fecc-11e7-9f14-f31e2a4e3541.PNG)
 
 

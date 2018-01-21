@@ -33,13 +33,8 @@ We needed to include destructable objects in the game that the player could dest
 It was then a case of making a destructable mesh in UE4. 
 
 
-## Sound 
-For the sound of the spikes moving in and out I recorded the sound of scraping metal against metal. This created the desired affect which I added a small amount of reverb to. I then had to change the duration of the audio to match the duration of the spikes’ animation in the game. 
-
-![force_pull_sfx](https://user-images.githubusercontent.com/32567724/35198191-25a97982-fee3-11e7-8627-75be128e963c.PNG)
-
 ## Jump pad
-This was a case of creating a trigger box which upon entering would launch the player a certain distance. I then had to hook the trigger box up to the interface for the fireball receiver. The interface starts the corresponding blueprint depending on whether the correct receiver had been activated by a fireball. 
+In order to get past the spike traps I wanted the player to have to shoot a fireball into a designated reciever which would enable a jump pad to launch him over the spikes. For this it was a case of creating a trigger box which upon entering would launch the player a certain distance. I then had to hook the trigger box up to the interface for the fireball receiver. The interface starts the corresponding blueprint depending on whether the correct receiver had been activated by a fireball. 
 
 ![jump pad](https://user-images.githubusercontent.com/32567724/35196653-e68acea6-fecc-11e7-8f36-06d7bbab5e86.PNG)
 
@@ -49,10 +44,9 @@ For the moving platforms I originally made a matinee in which I animated the pla
 ![moveing plat](https://user-images.githubusercontent.com/32567724/35196654-e6a61922-fecc-11e7-8516-834307a497d7.PNG)
 
 
-
 # Particle Spawn
 
-In otrder to visualise where the player should stand in order to be launched by the jump pad I created a partical spawner that emitted a runic symbol to show the play where to run. 
+In otrder to visualise where the player should stand in order to be launched by the jump pad I created a partical spawner that emitted a runic symbol to show the play where to be. I chose a rune like design because it seemed more in keeping with the fantasy/wizard aesthetic that we were going for than if I used an actual jump pad etc.  
 
 I created a drawing of the rune in photoshop.
 
@@ -61,6 +55,11 @@ I created a drawing of the rune in photoshop.
 I then imported it into Unreal and used the partical system to give it a glowing effect. Using blueprints I made it that the rune would be triggered when the player fires his fireball into the correct reciever. 
 
 ![partical spwan](https://user-images.githubusercontent.com/32567724/35196655-e6bfed5c-fecc-11e7-9f14-f31e2a4e3541.PNG)
+
+## Sound 
+For the sound of the spikes moving in and out I recorded the sound of scraping metal against metal. This created the desired affect which I added a small amount of reverb to. I then had to change the duration of the audio to match the duration of the spikes’ animation in the game. 
+
+![force_pull_sfx](https://user-images.githubusercontent.com/32567724/35198191-25a97982-fee3-11e7-8627-75be128e963c.PNG)
 
 
 

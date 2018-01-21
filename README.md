@@ -4,7 +4,7 @@ For this coursework my teammates and I created a first-person platform game. The
 
 ## Spike Trap and Fist
 
-I made a spike trap that moved horezontelly as well as a crushing fist that moved vertically. For the spike trap I started by making a simple low poly spike in Maya which I textured trying to give it a dirty metal look. I then duplicated the spike to create a bunch of spikes and essentially the trap. In the game I had used a place holder block to represent the spikes, so it was an easy case of swapping meshes. 
+I made a spike trap that moved horizontally as well as a crushing fist that moved vertically. For the spike trap I started by making a simple low poly spike in Maya which I textured trying to give it a dirty metal look. I then duplicated the spike to create a bunch of spikes and essentially the trap. In the game I had used a place holder block to represent the spikes, so it was an easy case of swapping meshes. 
 
 ![spiketrap1](https://user-images.githubusercontent.com/32567724/35195469-cd3d4610-febb-11e7-8508-28ee968509d6.png)
 
@@ -20,7 +20,7 @@ Once the general shape of a closed fist was defined it was then easy to define i
 
 ![fist3](https://user-images.githubusercontent.com/32567724/35196113-ab474fce-fec5-11e7-89e8-ca7e3dd68d01.png)
 
-To animate the spike and the fist I fisrt set the actor's location to be where it was placed and then made a vector timeline in which I moved the actor over a period of time. For the fist it was a simple case of swapping the meshes and rotating the actor so it proppelled down rather than to the side. Neither of the traps got 'activated' as such so it was fine for them to start upon playing the game and neither of them needed to be disabled as the solution to getting past the spikes was with a jump pad, more on that later.   
+To animate the spike and the fist I fist set the actor's location to be where it was placed and then made a vector timeline in which I moved the actor over a period of time. For the fist it was a simple case of swapping the meshes and rotating the actor so it propelled down rather than to the side. Neither of the traps got 'activated' as such so it was fine for them to start upon playing the game and neither of them needed to be disabled as the solution to getting past the spikes was with a jump pad, more on that later.   
 
 ![fist trap](https://user-images.githubusercontent.com/32567724/35196347-b7f215b2-fec8-11e7-9c8e-937d531a4524.PNG)
 

@@ -19,6 +19,7 @@ Texturing, however was tricky, for this I used a numbered checkers texture and s
 
 To animate the spike and the fist I fisrtly set the actor's location then made a vector timeline in blueprints in which I moved the actors 
 
+![fist trap](https://user-images.githubusercontent.com/32567724/35196347-b7f215b2-fec8-11e7-9c8e-937d531a4524.PNG)
 
 The Vase: simple case of extruding and shaping before removing the faces at the top to create a hollow vase. 
 

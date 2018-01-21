@@ -18,7 +18,7 @@ For the fist I had to learn a lot about modelling and texturing as it was quite 
 The Vase: simple case of extruding and shaping before removing the faces at the top to create a hollow vase. 
 
 
-
+![vases](https://user-images.githubusercontent.com/32567724/35195584-9b63d1c0-febd-11e7-835d-9cdf371f9ed8.png)
 
 
 

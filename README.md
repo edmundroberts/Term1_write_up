@@ -43,9 +43,9 @@ For the moving platforms I originally made a matinee in which I animated the pla
 
 
 
+# Particle Spawn
 
-
-
+In otrder to visualise where the player should stand in order to be launched by the jump pad I created a partical spawner that emitted a runic symbol to show the play where to run. 
 
 ![partical spwan](https://user-images.githubusercontent.com/32567724/35196655-e6bfed5c-fecc-11e7-9f14-f31e2a4e3541.PNG)
 

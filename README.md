@@ -21,21 +21,22 @@ To animate the spike and the fist I fisrtly set the actor's location then made a
 
 ![fist trap](https://user-images.githubusercontent.com/32567724/35196347-b7f215b2-fec8-11e7-9c8e-937d531a4524.PNG)
 
-The Vase: simple case of extruding and shaping before removing the faces at the top to create a hollow vase. 
+# Vase 
+simple case of extruding and shaping before removing the faces at the top to create a hollow vase. 
 
 
 ![vases](https://user-images.githubusercontent.com/32567724/35195584-9b63d1c0-febd-11e7-835d-9cdf371f9ed8.png)
 
 
-##Sound 
+## Sound 
 For the sound of the spikes moving in and out I recorded the sound of scraping metal against metal. This created the desired affect which I added a small amount of reverb to. I then had to change the duration of the audio to match the duration of the spikes’ animation in the game. 
 
-##Jump pad
+## Jump pad
 This was a case of creating a trigger box which upon entering would launch the player a certain distance. I then had to hook the trigger box up to the interface for the fireball receiver. The interface starts the corresponding blueprint depending on whether the correct receiver had been activated by a fireball. 
 
 ![jump pad](https://user-images.githubusercontent.com/32567724/35196653-e68acea6-fecc-11e7-8f36-06d7bbab5e86.PNG)
 
-##Moving Platforms
+## Moving Platforms
 For the moving platforms I originally made a matinee in which I animated the platforms, I found this method to be buggy and unhelpful for what I wanted to achieve. I decided to move them through blueprints and specifically the timeline feature which allows you to animate vectors. 
 
 ![moveing plat](https://user-images.githubusercontent.com/32567724/35196654-e6a61922-fecc-11e7-8516-834307a497d7.PNG)

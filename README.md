@@ -6,6 +6,7 @@ For this coursework my teammates and I created a first-person platform game wit
 
 I made a spike trap by making a simple low poly spike in Maya, which I textured trying to give it a dirty metal look I then duplicated the spike to create the trap. In the game I had used a place holder block to represent the spikes, so it was an easy case of swapping meshes. 
 
+![spiketrap1](https://user-images.githubusercontent.com/32567724/35195469-cd3d4610-febb-11e7-8508-28ee968509d6.png)
 
 
 

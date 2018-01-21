@@ -46,13 +46,17 @@ For the moving platforms I originally made a matinee in which I animated the pla
 
 # Particle Spawn
 
-In otrder to visualise where the player should stand in order to be launched by the jump pad I created a partical spawner that emitted a runic symbol to show the play where to be. I chose a rune like design because it seemed more in keeping with the fantasy/wizard aesthetic that we were going for than if I used an actual jump pad etc.  
+In order to visualise where the player should stand in order to be launched by the jump pad I created a particle spawner that emitted a runic symbol to show the play where to be. I chose a rune like design because it seemed more in keeping with the fantasy/wizard aesthetic that we were going for than if I used an actual jump pad etc.  
 
 I created a drawing of the rune in photoshop.
 
 ![rune](https://user-images.githubusercontent.com/32567724/35196813-3ea52cd8-fecf-11e7-83ef-f804c61f79a7.png)
 
-I then imported it into Unreal and used the partical system to give it a glowing effect. Using blueprints I made it that the rune would be triggered when the player fires his fireball into the correct reciever. 
+I then imported it into Unreal and used the particle system to give it a glowing effect in order to make it seem more magical and ethereal.
+
+![runegame](https://user-images.githubusercontent.com/32567724/35198420-a4fb1242-fee6-11e7-8ed1-9335847942bd.PNG)
+
+Using blueprints I made it that the rune would be triggered when the player fires his fireball into the correct reciever. 
 
 ![partical spwan](https://user-images.githubusercontent.com/32567724/35196655-e6bfed5c-fecc-11e7-9f14-f31e2a4e3541.PNG)
 

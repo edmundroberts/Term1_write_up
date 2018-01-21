@@ -1,16 +1,20 @@
 # Term1_write_up
 
-## Spike Trap:
-Here I made a spike trap by making a simple low poly spike in Maya, which I textured trying to give it a dirty metal look I then duplicated the spike to create the trap. In the game I had used a place holder block to represent the spikes, so it was an easy case of swapping meshes. 
+For this coursework my teammates and I created a first-person platform game with idea of ascending a wizard's tower. We all did various parts of coding as well as modelling, texturing and design.
+
+## Spike Trap and Fist:
+
+I made a spike trap by making a simple low poly spike in Maya, which I textured trying to give it a dirty metal look I then duplicated the spike to create the trap. In the game I had used a place holder block to represent the spikes, so it was an easy case of swapping meshes. 
 
 
 
 
 
 
-
-The Fist:
 For the fist I had to learn a lot about modelling and texturing as it was quite a tricky thing to make. I realised that the best method was to create a simple shape that I could cut into to create fingers and extrude to create the thumb. One the general shape of a closed fist was defined the rest was easy. Texturing, however was tricky, for this I used a numbered checkers texture and split the fist into distinct parts which I cut and sewed as best I could. I used normal, diffuse and speculative maps to create a dark marble like metal that would suit our game’s aesthetics.
+
+
+
 The Vase: simple case of extruding and shaping before removing the faces at the top to create a hollow vase. 
 
 

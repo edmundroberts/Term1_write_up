@@ -34,7 +34,7 @@ It was then a case of making a destructable mesh in UE4.
 
 
 ## Jump pad
-In order to get past the spike traps I wanted the player to have to shoot a fireball into a designated reciever which would enable a jump pad to launch him over the spikes. For this it was a case of creating a trigger box which upon entering would launch the player a certain distance. I then had to hook the trigger box up to the interface for the fireball receiver. The interface starts the corresponding blueprint depending on whether the correct receiver had been activated by a fireball. 
+In order to get past the spike traps I wanted the player to have to shoot a fireball into a designated receiver which would enable a jump pad to launch him over the spikes. For this it was a case of creating a trigger box which upon entering would launch the player a certain distance. I then had to hook the trigger box up to the interface for the fireball receiver. The interface starts the corresponding blueprint depending on whether the correct receiver had been activated by a fireball. 
 
 ![jump pad](https://user-images.githubusercontent.com/32567724/35196653-e68acea6-fecc-11e7-8f36-06d7bbab5e86.PNG)
 
@@ -56,7 +56,7 @@ I then imported it into Unreal and used the particle system to give it a glowing
 
 ![runegame](https://user-images.githubusercontent.com/32567724/35198420-a4fb1242-fee6-11e7-8ed1-9335847942bd.PNG)
 
-Using blueprints I made it that the rune would be triggered when the player fires his fireball into the correct reciever. 
+Using blueprints I made it that the rune would be triggered when the player fires his fireball into the correct receiver. 
 
 ![partical spwan](https://user-images.githubusercontent.com/32567724/35196655-e6bfed5c-fecc-11e7-9f14-f31e2a4e3541.PNG)
 

@@ -35,6 +35,8 @@ simple case of extruding and shaping before removing the faces at the top to cre
 ## Sound 
 For the sound of the spikes moving in and out I recorded the sound of scraping metal against metal. This created the desired affect which I added a small amount of reverb to. I then had to change the duration of the audio to match the duration of the spikes’ animation in the game. 
 
+![force_pull_sfx](https://user-images.githubusercontent.com/32567724/35198191-25a97982-fee3-11e7-8627-75be128e963c.PNG)
+
 ## Jump pad
 This was a case of creating a trigger box which upon entering would launch the player a certain distance. I then had to hook the trigger box up to the interface for the fireball receiver. The interface starts the corresponding blueprint depending on whether the correct receiver had been activated by a fireball. 
 

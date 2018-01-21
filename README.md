@@ -43,11 +43,10 @@ For the sound of the spikes moving in and out I recorded the sound of scraping m
 
 Jump pad:
 This was a case of creating a trigger box which upon entering would launch the player a certain distance. I then had to hook the trigger box up to the interface for the fireball receiver. The interface starts the corresponding blueprint depending on whether the correct receiver had been activated by a fireball. 
+
+![jump pad](https://user-images.githubusercontent.com/32567724/35196653-e68acea6-fecc-11e7-8f36-06d7bbab5e86.PNG)
+
 Moving Platforms:
 For the moving platforms I originally made a matinee in which I animated the platforms, I found this method to be buggy and unhelpful for what I wanted to achieve. I decided to move them through blueprints and specifically the timeline feature which allows you to animate vectors. 
 
-Spikes/fists:
 
-Programming and modelling
-
-A write up for my personal contribution to the Game we made.

@@ -8,6 +8,8 @@ I made a spike trap by making a simple low poly spike in Maya, which I textured 
 
 ![spiketrap1](https://user-images.githubusercontent.com/32567724/35195469-cd3d4610-febb-11e7-8508-28ee968509d6.png)
 
+![fist2](https://user-images.githubusercontent.com/32567724/35195494-51f418ac-febc-11e7-8db3-7e47277c5029.png)
+
 
 
 

@@ -8,6 +8,9 @@ I made a spike trap by making a simple low poly spike in Maya, which I textured 
 
 ![spiketrap1](https://user-images.githubusercontent.com/32567724/35195469-cd3d4610-febb-11e7-8508-28ee968509d6.png)
 
+![image](https://user-images.githubusercontent.com/32567724/35198013-53c6aa22-fee0-11e7-9642-14dc7b2de298.png)
+
+
 For the fist I had to learn a lot about modelling and texturing as it was quite a tricky thing to make. I realised that the best method was to create a simple shape that I could cut into to create fingers and extrude to create the thumb. One the general shape of a closed fist was defined the rest was easy. 
 
 

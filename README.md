@@ -73,11 +73,13 @@ For the sound of the spikes moving in and out I recorded the sound of scraping m
 
 ![force_pull_sfx](https://user-images.githubusercontent.com/32567724/35198191-25a97982-fee3-11e7-8627-75be128e963c.PNG)
 
-## Other Programing not game related
+## Other Programing, not game related
 
-For the Physical computing module I had to wirte code for arduino over several projects. In this example my teammate and I created a puzzle box that required you to press and hold buttons in a random order,  as if you were playing the game 'twister' but only with your fingers. 
+For the Physical computing module I had to wirte code for arduino over several projects. In this example my teammate and I created a puzzle box that required you to press and hold buttons in a random order,  as if you were playing the game 'twister' but only with your fingers. In the code bellow we are telling the arduino to light up an LED and if said LED is pressed and held to then light up another etc. When four have been lit and four have been pressed and held the puzzle is completed and the level rereshes.
 
 ![finger3](https://user-images.githubusercontent.com/32567724/35225481-58e812ac-ff80-11e7-9cb7-54f36e87129f.png)
+
+
 
 
 

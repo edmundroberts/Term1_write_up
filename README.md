@@ -75,7 +75,10 @@ For the sound of the spikes moving in and out I recorded the sound of scraping m
 
 ## Other Programing not game related
 
-For the Physical computing module I had to wirte code for an arduino.
+For the Physical computing module I had to wirte code for arduino over several projects. In this example my teammate and I created a puzzle box that required you to press and hold buttons in a random order,  as if you were playing the game 'twister' but only with your fingers. 
+
+![finger3](https://user-images.githubusercontent.com/32567724/35225481-58e812ac-ff80-11e7-9cb7-54f36e87129f.png)
+
 
 
 
